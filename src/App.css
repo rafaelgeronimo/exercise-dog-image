@@ -1,3 +1,12 @@
+body {
+  background-color: #282c34;
+  color: white;
+}
+
+.dog-image img {
+  max-width: 400px;
+}
+
 .App {
   text-align: center;
 }
